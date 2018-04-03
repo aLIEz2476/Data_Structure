@@ -15,6 +15,7 @@ int main()
 				input[j] = temp;
 			}
 	}
+	// 선택정렬
 
 
 	/*for (int x = 0; x < 10; x++)
@@ -29,6 +30,7 @@ int main()
 			}
 		}
 	}*/
+	// 버블정렬
 	
 	for (int i = 0; i < 10; i++)
 	{
